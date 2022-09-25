@@ -10,6 +10,5 @@ jle label
 mov r4 10
 add r1 5
 mov r5 14
-label1:
 mov r2 r3
 div r1 r4
