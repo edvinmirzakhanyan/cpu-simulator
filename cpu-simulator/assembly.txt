@@ -1,0 +1,15 @@
+mov r1 7
+mov r2 4
+label:
+mov r3 5
+add r1 r3
+sub r1 r2
+mul r1 r3
+cmp r1 45
+jle label
+mov r4 10
+add r1 5
+mov r5 14
+label1:
+mov r2 r3
+div r1 r4
